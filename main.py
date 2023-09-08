@@ -7,7 +7,7 @@ print("start")
 
 ig_user_id = " "
 access_token = " "
-api_graph = " "
+api_graph = "https://graph.facebook.com/v17.0/"
 
 file = open("./images.txt", "r")
 for line in file:
